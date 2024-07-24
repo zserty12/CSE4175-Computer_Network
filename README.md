@@ -1,3 +1,8 @@
 Projects from Computer Network
-(Professor So Jung Min)
+
+Proj #1. CRC(Cyclic Redundancy Check)
+  - CRC Encorder
+  - CRC Decorder
+
+
 
